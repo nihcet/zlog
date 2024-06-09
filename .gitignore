@@ -1,0 +1,6 @@
+.vscode
+!.vscode/launch.json
+
+go.sum
+
+server/__debug_bin*
